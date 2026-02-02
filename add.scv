@@ -1,0 +1,11 @@
+If you are GIVING UP USD in an FX trade, are you buying or selling USD?,Selling USD
+If you are SELLING a currency in FX, which price do you use?,Bid
+If you are BUYING a currency in FX, which price do you use?,Ask
+If the quote is $/foreign (direct quote), do you multiply or divide?,Divide
+If the quote is foreign/$ (indirect quote), do you multiply or divide?,Multiply
+You have USD and want foreign currency. Which price applies?,Ask
+You have foreign currency and want USD. Which price applies?,Bid
+USD → GBP with quote $/£. Which operation and price do you use?,Divide by Ask
+USD → JPY with quote ¥/$. Which operation and price do you use?,Multiply by Bid
+Why does the market never let you trade at the favorable price?,Because you always trade against the spread
+Universal FX rule in one line?,Buying = Ask; Selling = Bid
